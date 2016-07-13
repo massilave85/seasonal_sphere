@@ -1,0 +1,28 @@
+{
+  "name": "seasonal_sphere",
+  "authors": [
+    "Massimo Lavelli <massimo.lavelli@bticino.it>"
+  ],
+  "description": "Application from which upload and add meta-tag to a sphere",
+  "main": "index.html",
+  "keywords": [
+    "shpere",
+    "360"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-social": "^5.0.0",
+    "Photo-Sphere-Viewer": "^3.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
